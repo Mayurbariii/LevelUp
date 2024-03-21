@@ -1,0 +1,38 @@
+.courses-container{
+    position: relative;
+    width: 100%;
+    min-height: 80vh;
+    background-color: #8CB9BD;
+    margin-top: 40%;
+}
+.tag-courses{
+    margin: 50px;
+    min-width: 100%;
+    /* background-color: #fff; */
+}
+.courses-cards{
+    display: flex;
+    min-width: 90%;
+    min-height: 150px;
+    margin: 20px;
+    background: transparent;
+    border-radius: 10px;
+}
+.card-1-courses{
+    margin-left: 30px;
+    width: 250px;
+    height: 150px;
+    background: white;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+}
+.icon-courses{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background: #ECB159;
+    color: #fff;
+    text-align: center;
+    
+}
